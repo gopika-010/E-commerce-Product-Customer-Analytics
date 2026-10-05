@@ -1,1 +1,6 @@
-
+events.csv
+events_cleaned.csv
+*.pbix
+.env
+__pycache__/
+*.pyc
